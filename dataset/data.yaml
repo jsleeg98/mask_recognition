@@ -1,0 +1,7 @@
+names:
+- with_mask
+- without_mask
+- mask_weared_incorrect
+nc: 3
+train: /home/openlab/DH_Lee/yolov5/dataset/train.txt
+val: /home/openlab/DH_Lee/yolov5/dataset/val.txt
